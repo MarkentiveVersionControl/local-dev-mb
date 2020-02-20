@@ -257,5 +257,6 @@ local-hubl-server/conf/
 local-hubl-server/docs/
 local-hubl-server/lib/
 local-hubl-server/work/hubthemes/vast
+local-hubl-server/work/modules/
 
 local-hubl-server/work/hubthemes/hubspot.config.yml
